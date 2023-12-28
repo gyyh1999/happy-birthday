@@ -1,10 +1,10 @@
 {
   "greeting": "你好呀",
   "name": "李坤如",
-  "greetingText": "看见这个是不是很惊讶呀啊？",
-  "wishText": "May the js.prototypes always be with you! ;)",
+  "greetingText": "看见这个是不是很惊讶呀？",
+  "wishText": "这是我们在一起你的第一个生日 ;)",
   "imagePath": "img/li(2).png",
-  "text1": "It's your birthday!!! :D",
+  "text1": "今天是你的生日!!! :D",
   "textInChatBox": "祝你生日快乐!! 坤如! blablabla...",
   "sendButtonLabel": "发送",
   "text2": "虽说app计划已经失败",
@@ -17,7 +17,7 @@
   "bigTextPart1": "所",
   "bigTextPart2": "以",
   "wishHeading": "Happy Birthday!",
-  "outroText": "Okay, now come back and tell me if you liked it.",
-  "replayText": "Or click, if you want to watch it again.",
+  "outroText": "好啦，小小礼物，希望你喜欢！",
+  "replayText": "或者，如果你想再看一遍，戳这里。",
   "outroSmiley": ":)"
 }
